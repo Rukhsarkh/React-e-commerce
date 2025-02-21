@@ -1,6 +1,7 @@
 <div align="center">
   <br />
-      <img src="./public/banner.png" alt="Project Banner">
+      <img src="./public/img1.png" alt="AllProducts">
+      <img src="./public/img2.png" alt="productModal">
   <br />
 </div>
 
@@ -78,4 +79,4 @@ Voila ! have a look into your browser !
 ### if given more time i would :
 
 - i would implment state management using Redux
-- structure the css into user defined glass for modularity
+- structure the css into user defined class for modularity
