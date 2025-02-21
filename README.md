@@ -12,10 +12,6 @@
 - tailwind css
 - lucide react
 
-## 🚨 About Repo :-
-
-This repository contains the code for how to use and implement three.js models into our code. I have created three different folders with Each folder containig code for - importing Three.js models through CDN links, using three.js in [ npm + vite ] project and using three.js in [ npm + vite + React ] project. Follow to Following Quick Start guide to run this code on your local machine to see how it works.
-
 ## 🤸 Quick Start :-
 
 Follow these steps to set up the project locally on your machine.

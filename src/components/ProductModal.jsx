@@ -60,7 +60,7 @@ const ProductModal = ({ product, closeModal, setCartCount }) => {
           <div className="w-full h-0.5 bg-gray-300 my-3 sm:my-4"></div>
 
           <div className="flex flex-col sm:flex-row items-center gap-3 sm:gap-4">
-            <div className="flex items-center rounded border border-gray-300 w-full sm:w-auto">
+            <div className="flex items-center rounded lg:border lg:border-gray-300 w-full sm:w-auto">
               <button
                 onClick={handleDecrement}
                 className="px-3 py-1 bg-gray-300 rounded-l"
