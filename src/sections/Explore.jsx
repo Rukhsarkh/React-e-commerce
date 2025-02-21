@@ -65,7 +65,7 @@ const Explore = ({ setCartCount }) => {
       <div className="my-8 sm:my-12 md:my-16 lg:m-20 flex flex-col gap-6 sm:gap-8 lg:gap-10">
         <div className="text-orange-500 font-bold text-lg sm:text-xl flex items-center gap-2 sm:gap-4 mx-2 sm:ml-8">
           <div className="h-8 sm:h-9 w-4 sm:w-5 bg-orange-500 rounded-sm"></div>
-          <p>Our Products</p>
+          <p className="lg:text-2xl">Our Products</p>
         </div>
         <div className="text-2xl sm:text-3xl lg:text-4xl font-medium mx-2 sm:ml-8 pb-4 sm:pb-6 lg:pb-10">
           Explore our Products

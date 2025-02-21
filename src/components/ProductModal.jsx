@@ -44,6 +44,9 @@ const ProductModal = ({ product, closeModal, setCartCount }) => {
             <span className="text-gray-400 text-sm ml-2">
               ({product.rating.count})
             </span>
+            <span className="text-sm ml-2 border-l-4 border-gray-400">
+              <p className="text-green-400 pl-2 text-sm">in stock</p>
+            </span>
           </div>
           <p className="text-lg sm:text-xl font-medium mt-2">
             ${product.price}

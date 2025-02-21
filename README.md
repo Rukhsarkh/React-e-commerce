@@ -66,7 +66,7 @@ Voila ! have a look into your browser !
 - used pseudo elements to (grayish) encircle the services icons
 - maintainable and modular code
 - responsivness across mobile, tablet/laptop, desktop
-- error handling
+- error handling, conditional renderings
 - shows "category not found" on searching unavailable category
 - semantic html, accessiblity considerations, React Hooks for state management
 - tried to make everything look like the sample designs
@@ -79,5 +79,3 @@ Voila ! have a look into your browser !
 
 - i would implment state management using Redux
 - structure the css into user defined glass for modularity
-
-- would implement state management using Redux
