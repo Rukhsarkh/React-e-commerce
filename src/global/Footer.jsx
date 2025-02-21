@@ -19,6 +19,8 @@ const Footer = () => {
             <img
               src="../../send.png"
               className="w-9 h-9 absolute top-1/2 right-4 transform -translate-y-1/2 hover:cursor-pointer p-2"
+              alt="send-icon"
+              aria-label="send-icon"
             />
           </div>
         </div>

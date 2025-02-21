@@ -14,7 +14,7 @@ export const ServicesObj = [
   {
     id: 3,
     title: "Money Back Guarantee",
-    subtitle: "we return money within 30 days",
+    subtitle: "We return money within 30 days",
     img: "../../shield.png",
   },
 ];

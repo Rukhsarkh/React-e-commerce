@@ -11,7 +11,12 @@ const Services = () => {
             className="flex flex-col gap-4 items-center relative before:content-[''] before:absolute before:w-24 before:h-24 before:rounded-full before:border-8 before:border-gray-400 before:-z-10 before:pointer-events-none before:-top-2 mx-4 sm:mx-14 mb-8 sm:mb-0"
           >
             <div className="bg-black w-20 h-20 rounded-full flex items-center justify-center">
-              <img src={item.img} className="p-3" />
+              <img
+                src={item.img}
+                className="p-3"
+                alt={item.title}
+                aria-label={item.title}
+              />
             </div>
             <div className="text-center mt-4">
               <h1 className="font-bold text-lg uppercase">{item.title}</h1>

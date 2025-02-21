@@ -14,6 +14,7 @@ const ProductCard = ({ product, onProductClick }) => {
               src={item.image}
               className="p-3 w-40 h-40 sm:w-44 sm:h-44 md:w-48 md:h-48 lg:w-52 lg:h-52 object-contain mix-blend-multiply"
               alt={item.title}
+              aria-label={item.title}
             />
           </div>
           <div className="w-full flex flex-col items-center text-center mt-4">

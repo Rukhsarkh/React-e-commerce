@@ -53,3 +53,31 @@ npm run dev
 ```
 
 Voila ! have a look into your browser !
+
+### Design Decisions
+
+- Nothing special, can do that if i get more time, you can check my frontend projects, i have designed them all by myself
+
+### Notable Features
+
+- truncated title and product description
+- implementation of StarRatingIcon component, included float values even
+- displaying only the image on gray background excluding the white background of image using mix-blend-multiply
+- used pseudo elements to (grayish) encircle the services icons
+- maintainable and modular code
+- responsivness across mobile, tablet/laptop, desktop
+- error handling
+- shows "category not found" on searching unavailable category
+- semantic html, accessiblity considerations, React Hooks for state management
+- tried to make everything look like the sample designs
+
+### Areas where i struggled
+
+- it was a simple project, struggled nowhere
+
+### if given more time i would :
+
+- i would implment state management using Redux
+- structure the css into user defined glass for modularity
+
+- would implement state management using Redux
